@@ -1,0 +1,12 @@
+{
+  "name": "dummy-server",
+  "version": "1.0.0",
+  "description": "my first server",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon server",
+    "start": "node server"
+  },
+  "author": "Luckion",
+  "license": "MIT"
+}
